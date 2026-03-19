@@ -1,4 +1,4 @@
- [![MasterHead](https://github.com/lucasoliveiraghs/lucasoliveiraghs/blob/main/kratos-in-god-of-war-ragnarok-wm.jpg)](https://github.com/lucasoliveiraghs)
+ [![MasterHead](https://wallpapercave.com/wp/wp14491643.jpg)](https://github.com/lucasoliveiraghs)
  
  ## **Opa, tudo bem com você? Espero que sim, meu nome é Lucas Gabriel Oliveira.**
 
