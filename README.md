@@ -10,7 +10,11 @@
 
   estou estudanto a área da tecnologia, porém, ainda com muitas duvidas por qual carreira seguir.
                                                             
-                       " Seja feliz no seguro e no incerto, só não encha o saco de quem está quieto 😉".
-  [![MasterHead](your image link)](your GitHub link)
+                               " Seja feliz no seguro e no incerto, só não encha o saco de quem está quieto 😉".
+                        
+<p align="center">
+  <img width="460" height="300" src="https://t3.ftcdn.net/jpg/08/02/95/96/360_F_802959681_yfcuNHvscT8bxRq9bwSLt958k5iCFVED.jpg">
+</p>
+  
 
 
