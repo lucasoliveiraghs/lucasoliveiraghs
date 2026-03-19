@@ -1,4 +1,4 @@
-## Hi there 👋
+ [![MasterHead](https://github.com/lucasoliveiraghs/lucasoliveiraghs/blob/main/kratos-in-god-of-war-ragnarok-wm.jpg)](https://github.com/lucasoliveiraghs)
 
 <!--
 **lucasoliveiraghs/lucasoliveiraghs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
